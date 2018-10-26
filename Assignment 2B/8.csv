@@ -1,0 +1,826 @@
+Name,Title,Title_count,Title_mean
+"Braund, Mr. Owen Harris",Mr.,517,0.6266666666666667
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Mrs.,125,0.15151515151515152
+"Heikkinen, Miss. Laina",Miss.,182,0.2206060606060606
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Mrs.,125,0.15151515151515152
+"Allen, Mr. William Henry",Mr.,517,0.6266666666666667
+"Moran, Mr. James",Mr.,517,0.6266666666666667
+"McCarthy, Mr. Timothy J",Mr.,517,0.6266666666666667
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Mrs.,125,0.15151515151515152
+"Nasser, Mrs. Nicholas (Adele Achem)",Mrs.,125,0.15151515151515152
+"Sandstrom, Miss. Marguerite Rut",Miss.,182,0.2206060606060606
+"Bonnell, Miss. Elizabeth",Miss.,182,0.2206060606060606
+"Saundercock, Mr. William Henry",Mr.,517,0.6266666666666667
+"Andersson, Mr. Anders Johan",Mr.,517,0.6266666666666667
+"Vestrom, Miss. Hulda Amanda Adolfina",Miss.,182,0.2206060606060606
+"Hewlett, Mrs. (Mary D Kingcome) ",Mrs.,125,0.15151515151515152
+"Williams, Mr. Charles Eugene",Mr.,517,0.6266666666666667
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Mrs.,125,0.15151515151515152
+"Masselmani, Mrs. Fatima",Mrs.,125,0.15151515151515152
+"Fynney, Mr. Joseph J",Mr.,517,0.6266666666666667
+"Beesley, Mr. Lawrence",Mr.,517,0.6266666666666667
+"McGowan, Miss. Anna ""Annie""",Miss.,182,0.2206060606060606
+"Sloper, Mr. William Thompson",Mr.,517,0.6266666666666667
+"Palsson, Miss. Torborg Danira",Miss.,182,0.2206060606060606
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Mrs.,125,0.15151515151515152
+"Emir, Mr. Farred Chehab",Mr.,517,0.6266666666666667
+"Fortune, Mr. Charles Alexander",Mr.,517,0.6266666666666667
+"O'Dwyer, Miss. Ellen ""Nellie""",Miss.,182,0.2206060606060606
+"Todoroff, Mr. Lalio",Mr.,517,0.6266666666666667
+"Spencer, Mrs. William Augustus (Marie Eugenie)",Mrs.,125,0.15151515151515152
+"Glynn, Miss. Mary Agatha",Miss.,182,0.2206060606060606
+"Wheadon, Mr. Edward H",Mr.,517,0.6266666666666667
+"Meyer, Mr. Edgar Joseph",Mr.,517,0.6266666666666667
+"Holverson, Mr. Alexander Oskar",Mr.,517,0.6266666666666667
+"Mamee, Mr. Hanna",Mr.,517,0.6266666666666667
+"Cann, Mr. Ernest Charles",Mr.,517,0.6266666666666667
+"Vander Planke, Miss. Augusta Maria",Miss.,182,0.2206060606060606
+"Nicola-Yarred, Miss. Jamila",Miss.,182,0.2206060606060606
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Mrs.,125,0.15151515151515152
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Mrs.,125,0.15151515151515152
+"Kraeff, Mr. Theodor",Mr.,517,0.6266666666666667
+"Laroche, Miss. Simonne Marie Anne Andree",Miss.,182,0.2206060606060606
+"Devaney, Miss. Margaret Delia",Miss.,182,0.2206060606060606
+"Rogers, Mr. William John",Mr.,517,0.6266666666666667
+"Lennon, Mr. Denis",Mr.,517,0.6266666666666667
+"O'Driscoll, Miss. Bridget",Miss.,182,0.2206060606060606
+"Samaan, Mr. Youssef",Mr.,517,0.6266666666666667
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Mrs.,125,0.15151515151515152
+"Nosworthy, Mr. Richard Cater",Mr.,517,0.6266666666666667
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Mrs.,125,0.15151515151515152
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Mrs.,125,0.15151515151515152
+"Ostby, Mr. Engelhart Cornelius",Mr.,517,0.6266666666666667
+"Woolner, Mr. Hugh",Mr.,517,0.6266666666666667
+"Rugg, Miss. Emily",Miss.,182,0.2206060606060606
+"Novel, Mr. Mansouer",Mr.,517,0.6266666666666667
+"West, Miss. Constance Mirium",Miss.,182,0.2206060606060606
+"Sirayanian, Mr. Orsen",Mr.,517,0.6266666666666667
+"Icard, Miss. Amelie",Miss.,182,0.2206060606060606
+"Harris, Mr. Henry Birkhardt",Mr.,517,0.6266666666666667
+"Stewart, Mr. Albert A",Mr.,517,0.6266666666666667
+"Nye, Mrs. (Elizabeth Ramell)",Mrs.,125,0.15151515151515152
+"Crease, Mr. Ernest James",Mr.,517,0.6266666666666667
+"Andersson, Miss. Erna Alexandra",Miss.,182,0.2206060606060606
+"Kink, Mr. Vincenz",Mr.,517,0.6266666666666667
+"Jenkin, Mr. Stephen Curnow",Mr.,517,0.6266666666666667
+"Goodwin, Miss. Lillian Amy",Miss.,182,0.2206060606060606
+"Hood, Mr. Ambrose Jr",Mr.,517,0.6266666666666667
+"Chronopoulos, Mr. Apostolos",Mr.,517,0.6266666666666667
+"Bing, Mr. Lee",Mr.,517,0.6266666666666667
+"Moen, Mr. Sigurd Hansen",Mr.,517,0.6266666666666667
+"Staneff, Mr. Ivan",Mr.,517,0.6266666666666667
+"Moutal, Mr. Rahamin Haim",Mr.,517,0.6266666666666667
+"Dowdell, Miss. Elizabeth",Miss.,182,0.2206060606060606
+"Waelens, Mr. Achille",Mr.,517,0.6266666666666667
+"Sheerlinck, Mr. Jan Baptist",Mr.,517,0.6266666666666667
+"McDermott, Miss. Brigdet Delia",Miss.,182,0.2206060606060606
+"Carrau, Mr. Francisco M",Mr.,517,0.6266666666666667
+"Ilett, Miss. Bertha",Miss.,182,0.2206060606060606
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Mrs.,125,0.15151515151515152
+"Ford, Mr. William Neal",Mr.,517,0.6266666666666667
+"Slocovski, Mr. Selman Francis",Mr.,517,0.6266666666666667
+"Fortune, Miss. Mabel Helen",Miss.,182,0.2206060606060606
+"Celotti, Mr. Francesco",Mr.,517,0.6266666666666667
+"Christmann, Mr. Emil",Mr.,517,0.6266666666666667
+"Andreasson, Mr. Paul Edvin",Mr.,517,0.6266666666666667
+"Chaffee, Mr. Herbert Fuller",Mr.,517,0.6266666666666667
+"Dean, Mr. Bertram Frank",Mr.,517,0.6266666666666667
+"Coxon, Mr. Daniel",Mr.,517,0.6266666666666667
+"Shorney, Mr. Charles Joseph",Mr.,517,0.6266666666666667
+"Goldschmidt, Mr. George B",Mr.,517,0.6266666666666667
+"Greenfield, Mr. William Bertram",Mr.,517,0.6266666666666667
+"Doling, Mrs. John T (Ada Julia Bone)",Mrs.,125,0.15151515151515152
+"Kantor, Mr. Sinai",Mr.,517,0.6266666666666667
+"Petranec, Miss. Matilda",Miss.,182,0.2206060606060606
+"Petroff, Mr. Pastcho (""Pentcho"")",Mr.,517,0.6266666666666667
+"White, Mr. Richard Frasar",Mr.,517,0.6266666666666667
+"Johansson, Mr. Gustaf Joel",Mr.,517,0.6266666666666667
+"Gustafsson, Mr. Anders Vilhelm",Mr.,517,0.6266666666666667
+"Mionoff, Mr. Stoytcho",Mr.,517,0.6266666666666667
+"Salkjelsvik, Miss. Anna Kristine",Miss.,182,0.2206060606060606
+"Moss, Mr. Albert Johan",Mr.,517,0.6266666666666667
+"Rekic, Mr. Tido",Mr.,517,0.6266666666666667
+"Moran, Miss. Bertha",Miss.,182,0.2206060606060606
+"Porter, Mr. Walter Chamberlain",Mr.,517,0.6266666666666667
+"Zabour, Miss. Hileni",Miss.,182,0.2206060606060606
+"Barton, Mr. David John",Mr.,517,0.6266666666666667
+"Jussila, Miss. Katriina",Miss.,182,0.2206060606060606
+"Attalah, Miss. Malake",Miss.,182,0.2206060606060606
+"Pekoniemi, Mr. Edvard",Mr.,517,0.6266666666666667
+"Connors, Mr. Patrick",Mr.,517,0.6266666666666667
+"Turpin, Mr. William John Robert",Mr.,517,0.6266666666666667
+"Baxter, Mr. Quigg Edmond",Mr.,517,0.6266666666666667
+"Andersson, Miss. Ellis Anna Maria",Miss.,182,0.2206060606060606
+"Hickman, Mr. Stanley George",Mr.,517,0.6266666666666667
+"Moore, Mr. Leonard Charles",Mr.,517,0.6266666666666667
+"Nasser, Mr. Nicholas",Mr.,517,0.6266666666666667
+"Webber, Miss. Susan",Miss.,182,0.2206060606060606
+"White, Mr. Percival Wayland",Mr.,517,0.6266666666666667
+"McMahon, Mr. Martin",Mr.,517,0.6266666666666667
+"Madsen, Mr. Fridtjof Arne",Mr.,517,0.6266666666666667
+"Peter, Miss. Anna",Miss.,182,0.2206060606060606
+"Ekstrom, Mr. Johan",Mr.,517,0.6266666666666667
+"Drazenoic, Mr. Jozef",Mr.,517,0.6266666666666667
+"Coelho, Mr. Domingos Fernandeo",Mr.,517,0.6266666666666667
+"Robins, Mrs. Alexander A (Grace Charity Laury)",Mrs.,125,0.15151515151515152
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Mrs.,125,0.15151515151515152
+"Sobey, Mr. Samuel James Hayden",Mr.,517,0.6266666666666667
+"Richard, Mr. Emile",Mr.,517,0.6266666666666667
+"Newsom, Miss. Helen Monypeny",Miss.,182,0.2206060606060606
+"Futrelle, Mr. Jacques Heath",Mr.,517,0.6266666666666667
+"Osen, Mr. Olaf Elon",Mr.,517,0.6266666666666667
+"Giglio, Mr. Victor",Mr.,517,0.6266666666666667
+"Boulos, Mrs. Joseph (Sultana)",Mrs.,125,0.15151515151515152
+"Nysten, Miss. Anna Sofia",Miss.,182,0.2206060606060606
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Mrs.,125,0.15151515151515152
+"Burke, Mr. Jeremiah",Mr.,517,0.6266666666666667
+"Andrew, Mr. Edgardo Samuel",Mr.,517,0.6266666666666667
+"Nicholls, Mr. Joseph Charles",Mr.,517,0.6266666666666667
+"Andersson, Mr. August Edvard (""Wennerstrom"")",Mr.,517,0.6266666666666667
+"Ford, Miss. Robina Maggie ""Ruby""",Miss.,182,0.2206060606060606
+"Navratil, Mr. Michel (""Louis M Hoffman"")",Mr.,517,0.6266666666666667
+"Pears, Mrs. Thomas (Edith Wearne)",Mrs.,125,0.15151515151515152
+"Meo, Mr. Alfonzo",Mr.,517,0.6266666666666667
+"van Billiard, Mr. Austin Blyler",Mr.,517,0.6266666666666667
+"Olsen, Mr. Ole Martin",Mr.,517,0.6266666666666667
+"Williams, Mr. Charles Duane",Mr.,517,0.6266666666666667
+"Gilnagh, Miss. Katherine ""Katie""",Miss.,182,0.2206060606060606
+"Corn, Mr. Harry",Mr.,517,0.6266666666666667
+"Smiljanic, Mr. Mile",Mr.,517,0.6266666666666667
+"Cribb, Mr. John Hatfield",Mr.,517,0.6266666666666667
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Mrs.,125,0.15151515151515152
+"Bengtsson, Mr. John Viktor",Mr.,517,0.6266666666666667
+"Calic, Mr. Jovo",Mr.,517,0.6266666666666667
+"Chibnall, Mrs. (Edith Martha Bowerman)",Mrs.,125,0.15151515151515152
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Mrs.,125,0.15151515151515152
+"Baumann, Mr. John D",Mr.,517,0.6266666666666667
+"Ling, Mr. Lee",Mr.,517,0.6266666666666667
+"Van der hoef, Mr. Wyckoff",Mr.,517,0.6266666666666667
+"Johnson, Miss. Eleanor Ileen",Miss.,182,0.2206060606060606
+"Sivola, Mr. Antti Wilhelm",Mr.,517,0.6266666666666667
+"Smith, Mr. James Clinch",Mr.,517,0.6266666666666667
+"Klasen, Mr. Klas Albin",Mr.,517,0.6266666666666667
+"Isham, Miss. Ann Elizabeth",Miss.,182,0.2206060606060606
+"Hale, Mr. Reginald",Mr.,517,0.6266666666666667
+"Leonard, Mr. Lionel",Mr.,517,0.6266666666666667
+"Sage, Miss. Constance Gladys",Miss.,182,0.2206060606060606
+"Pernot, Mr. Rene",Mr.,517,0.6266666666666667
+"Kink-Heilmann, Miss. Luise Gretchen",Miss.,182,0.2206060606060606
+"Rood, Mr. Hugh Roscoe",Mr.,517,0.6266666666666667
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Mrs.,125,0.15151515151515152
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Mr.,517,0.6266666666666667
+"Bourke, Mr. John",Mr.,517,0.6266666666666667
+"Turcin, Mr. Stjepan",Mr.,517,0.6266666666666667
+"Pinsky, Mrs. (Rosa)",Mrs.,125,0.15151515151515152
+"Carbines, Mr. William",Mr.,517,0.6266666666666667
+"Andersen-Jensen, Miss. Carla Christine Nielsine",Miss.,182,0.2206060606060606
+"Brown, Mrs. James Joseph (Margaret Tobin)",Mrs.,125,0.15151515151515152
+"Lurette, Miss. Elise",Miss.,182,0.2206060606060606
+"Mernagh, Mr. Robert",Mr.,517,0.6266666666666667
+"Olsen, Mr. Karl Siegwart Andreas",Mr.,517,0.6266666666666667
+"Madigan, Miss. Margaret ""Maggie""",Miss.,182,0.2206060606060606
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",Miss.,182,0.2206060606060606
+"Vande Walle, Mr. Nestor Cyriel",Mr.,517,0.6266666666666667
+"Sage, Mr. Frederick",Mr.,517,0.6266666666666667
+"Johanson, Mr. Jakob Alfred",Mr.,517,0.6266666666666667
+"Youseff, Mr. Gerious",Mr.,517,0.6266666666666667
+"Cohen, Mr. Gurshon ""Gus""",Mr.,517,0.6266666666666667
+"Strom, Miss. Telma Matilda",Miss.,182,0.2206060606060606
+"Backstrom, Mr. Karl Alfred",Mr.,517,0.6266666666666667
+"Albimona, Mr. Nassef Cassem",Mr.,517,0.6266666666666667
+"Carr, Miss. Helen ""Ellen""",Miss.,182,0.2206060606060606
+"Blank, Mr. Henry",Mr.,517,0.6266666666666667
+"Ali, Mr. Ahmed",Mr.,517,0.6266666666666667
+"Cameron, Miss. Clear Annie",Miss.,182,0.2206060606060606
+"Perkin, Mr. John Henry",Mr.,517,0.6266666666666667
+"Givard, Mr. Hans Kristensen",Mr.,517,0.6266666666666667
+"Kiernan, Mr. Philip",Mr.,517,0.6266666666666667
+"Newell, Miss. Madeleine",Miss.,182,0.2206060606060606
+"Honkanen, Miss. Eliina",Miss.,182,0.2206060606060606
+"Jacobsohn, Mr. Sidney Samuel",Mr.,517,0.6266666666666667
+"Bazzani, Miss. Albina",Miss.,182,0.2206060606060606
+"Harris, Mr. Walter",Mr.,517,0.6266666666666667
+"Sunderland, Mr. Victor Francis",Mr.,517,0.6266666666666667
+"Bracken, Mr. James H",Mr.,517,0.6266666666666667
+"Green, Mr. George Henry",Mr.,517,0.6266666666666667
+"Nenkoff, Mr. Christo",Mr.,517,0.6266666666666667
+"Hoyt, Mr. Frederick Maxfield",Mr.,517,0.6266666666666667
+"Berglund, Mr. Karl Ivar Sven",Mr.,517,0.6266666666666667
+"Mellors, Mr. William John",Mr.,517,0.6266666666666667
+"Lovell, Mr. John Hall (""Henry"")",Mr.,517,0.6266666666666667
+"Fahlstrom, Mr. Arne Jonas",Mr.,517,0.6266666666666667
+"Lefebre, Miss. Mathilde",Miss.,182,0.2206060606060606
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Mrs.,125,0.15151515151515152
+"Larsson, Mr. Bengt Edvin",Mr.,517,0.6266666666666667
+"Sjostedt, Mr. Ernst Adolf",Mr.,517,0.6266666666666667
+"Asplund, Miss. Lillian Gertrud",Miss.,182,0.2206060606060606
+"Leyson, Mr. Robert William Norman",Mr.,517,0.6266666666666667
+"Harknett, Miss. Alice Phoebe",Miss.,182,0.2206060606060606
+"Hold, Mr. Stephen",Mr.,517,0.6266666666666667
+"Collyer, Miss. Marjorie ""Lottie""",Miss.,182,0.2206060606060606
+"Pengelly, Mr. Frederick William",Mr.,517,0.6266666666666667
+"Hunt, Mr. George Henry",Mr.,517,0.6266666666666667
+"Zabour, Miss. Thamine",Miss.,182,0.2206060606060606
+"Murphy, Miss. Katherine ""Kate""",Miss.,182,0.2206060606060606
+"Coleridge, Mr. Reginald Charles",Mr.,517,0.6266666666666667
+"Maenpaa, Mr. Matti Alexanteri",Mr.,517,0.6266666666666667
+"Attalah, Mr. Sleiman",Mr.,517,0.6266666666666667
+"Lindahl, Miss. Agda Thorilda Viktoria",Miss.,182,0.2206060606060606
+"Hamalainen, Mrs. William (Anna)",Mrs.,125,0.15151515151515152
+"Beckwith, Mr. Richard Leonard",Mr.,517,0.6266666666666667
+"Reed, Mr. James George",Mr.,517,0.6266666666666667
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Mrs.,125,0.15151515151515152
+"Stead, Mr. William Thomas",Mr.,517,0.6266666666666667
+"Lobb, Mr. William Arthur",Mr.,517,0.6266666666666667
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Mrs.,125,0.15151515151515152
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",Mrs.,125,0.15151515151515152
+"Thorne, Mrs. Gertrude Maybelle",Mrs.,125,0.15151515151515152
+"Cherry, Miss. Gladys",Miss.,182,0.2206060606060606
+"Ward, Miss. Anna",Miss.,182,0.2206060606060606
+"Parrish, Mrs. (Lutie Davis)",Mrs.,125,0.15151515151515152
+"Smith, Mr. Thomas",Mr.,517,0.6266666666666667
+"Taussig, Mr. Emil",Mr.,517,0.6266666666666667
+"Harrison, Mr. William",Mr.,517,0.6266666666666667
+"Henry, Miss. Delia",Miss.,182,0.2206060606060606
+"Reeves, Mr. David",Mr.,517,0.6266666666666667
+"Panula, Mr. Ernesti Arvid",Mr.,517,0.6266666666666667
+"Persson, Mr. Ernst Ulrik",Mr.,517,0.6266666666666667
+"Graham, Mrs. William Thompson (Edith Junkins)",Mrs.,125,0.15151515151515152
+"Bissette, Miss. Amelia",Miss.,182,0.2206060606060606
+"Cairns, Mr. Alexander",Mr.,517,0.6266666666666667
+"Tornquist, Mr. William Henry",Mr.,517,0.6266666666666667
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",Mrs.,125,0.15151515151515152
+"Natsch, Mr. Charles H",Mr.,517,0.6266666666666667
+"Healy, Miss. Hanora ""Nora""",Miss.,182,0.2206060606060606
+"Andrews, Miss. Kornelia Theodosia",Miss.,182,0.2206060606060606
+"Lindblom, Miss. Augusta Charlotta",Miss.,182,0.2206060606060606
+"Parkes, Mr. Francis ""Frank""",Mr.,517,0.6266666666666667
+"Abbott, Mrs. Stanton (Rosa Hunt)",Mrs.,125,0.15151515151515152
+"Duane, Mr. Frank",Mr.,517,0.6266666666666667
+"Olsson, Mr. Nils Johan Goransson",Mr.,517,0.6266666666666667
+"de Pelsmaeker, Mr. Alfons",Mr.,517,0.6266666666666667
+"Dorking, Mr. Edward Arthur",Mr.,517,0.6266666666666667
+"Smith, Mr. Richard William",Mr.,517,0.6266666666666667
+"Stankovic, Mr. Ivan",Mr.,517,0.6266666666666667
+"de Mulder, Mr. Theodore",Mr.,517,0.6266666666666667
+"Naidenoff, Mr. Penko",Mr.,517,0.6266666666666667
+"Hosono, Mr. Masabumi",Mr.,517,0.6266666666666667
+"Connolly, Miss. Kate",Miss.,182,0.2206060606060606
+"Barber, Miss. Ellen ""Nellie""",Miss.,182,0.2206060606060606
+"Bishop, Mrs. Dickinson H (Helen Walton)",Mrs.,125,0.15151515151515152
+"Levy, Mr. Rene Jacques",Mr.,517,0.6266666666666667
+"Haas, Miss. Aloisia",Miss.,182,0.2206060606060606
+"Mineff, Mr. Ivan",Mr.,517,0.6266666666666667
+"Lewy, Mr. Ervin G",Mr.,517,0.6266666666666667
+"Hanna, Mr. Mansour",Mr.,517,0.6266666666666667
+"Allison, Miss. Helen Loraine",Miss.,182,0.2206060606060606
+"Saalfeld, Mr. Adolphe",Mr.,517,0.6266666666666667
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Mrs.,125,0.15151515151515152
+"Kelly, Miss. Anna Katherine ""Annie Kate""",Miss.,182,0.2206060606060606
+"McCoy, Mr. Bernard",Mr.,517,0.6266666666666667
+"Johnson, Mr. William Cahoone Jr",Mr.,517,0.6266666666666667
+"Keane, Miss. Nora A",Miss.,182,0.2206060606060606
+"Williams, Mr. Howard Hugh ""Harry""",Mr.,517,0.6266666666666667
+"Fleming, Miss. Margaret",Miss.,182,0.2206060606060606
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Mrs.,125,0.15151515151515152
+"Abelson, Mr. Samuel",Mr.,517,0.6266666666666667
+"Francatelli, Miss. Laura Mabel",Miss.,182,0.2206060606060606
+"Hays, Miss. Margaret Bechstein",Miss.,182,0.2206060606060606
+"Ryerson, Miss. Emily Borie",Miss.,182,0.2206060606060606
+"Lahtinen, Mrs. William (Anna Sylfven)",Mrs.,125,0.15151515151515152
+"Hendekovic, Mr. Ignjac",Mr.,517,0.6266666666666667
+"Hart, Mr. Benjamin",Mr.,517,0.6266666666666667
+"Nilsson, Miss. Helmina Josefina",Miss.,182,0.2206060606060606
+"Kantor, Mrs. Sinai (Miriam Sternin)",Mrs.,125,0.15151515151515152
+"Wick, Miss. Mary Natalie",Miss.,182,0.2206060606060606
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Mrs.,125,0.15151515151515152
+"Dennis, Mr. Samuel",Mr.,517,0.6266666666666667
+"Danoff, Mr. Yoto",Mr.,517,0.6266666666666667
+"Slayter, Miss. Hilda Mary",Miss.,182,0.2206060606060606
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Mrs.,125,0.15151515151515152
+"Sage, Mr. George John Jr",Mr.,517,0.6266666666666667
+"Young, Miss. Marie Grice",Miss.,182,0.2206060606060606
+"Nysveen, Mr. Johan Hansen",Mr.,517,0.6266666666666667
+"Ball, Mrs. (Ada E Hall)",Mrs.,125,0.15151515151515152
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Mrs.,125,0.15151515151515152
+"Hippach, Miss. Jean Gertrude",Miss.,182,0.2206060606060606
+"McCoy, Miss. Agnes",Miss.,182,0.2206060606060606
+"Partner, Mr. Austen",Mr.,517,0.6266666666666667
+"Graham, Mr. George Edward",Mr.,517,0.6266666666666667
+"Vander Planke, Mr. Leo Edmondus",Mr.,517,0.6266666666666667
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Mrs.,125,0.15151515151515152
+"Denkoff, Mr. Mitto",Mr.,517,0.6266666666666667
+"Pears, Mr. Thomas Clinton",Mr.,517,0.6266666666666667
+"Burns, Miss. Elizabeth Margaret",Miss.,182,0.2206060606060606
+"Dahl, Mr. Karl Edwart",Mr.,517,0.6266666666666667
+"Blackwell, Mr. Stephen Weart",Mr.,517,0.6266666666666667
+"Fortune, Miss. Alice Elizabeth",Miss.,182,0.2206060606060606
+"Collander, Mr. Erik Gustaf",Mr.,517,0.6266666666666667
+"Sedgwick, Mr. Charles Frederick Waddington",Mr.,517,0.6266666666666667
+"Fox, Mr. Stanley Hubert",Mr.,517,0.6266666666666667
+"Brown, Miss. Amelia ""Mildred""",Miss.,182,0.2206060606060606
+"Smith, Miss. Marion Elsie",Miss.,182,0.2206060606060606
+"Davison, Mrs. Thomas Henry (Mary E Finck)",Mrs.,125,0.15151515151515152
+"Dimic, Mr. Jovan",Mr.,517,0.6266666666666667
+"Odahl, Mr. Nils Martin",Mr.,517,0.6266666666666667
+"Williams-Lambert, Mr. Fletcher Fellows",Mr.,517,0.6266666666666667
+"Elias, Mr. Tannous",Mr.,517,0.6266666666666667
+"Arnold-Franchi, Mr. Josef",Mr.,517,0.6266666666666667
+"Yousif, Mr. Wazli",Mr.,517,0.6266666666666667
+"Vanden Steen, Mr. Leo Peter",Mr.,517,0.6266666666666667
+"Bowerman, Miss. Elsie Edith",Miss.,182,0.2206060606060606
+"Funk, Miss. Annie Clemmer",Miss.,182,0.2206060606060606
+"McGovern, Miss. Mary",Miss.,182,0.2206060606060606
+"Mockler, Miss. Helen Mary ""Ellie""",Miss.,182,0.2206060606060606
+"Skoog, Mr. Wilhelm",Mr.,517,0.6266666666666667
+"del Carlo, Mr. Sebastiano",Mr.,517,0.6266666666666667
+"Barbara, Mrs. (Catherine David)",Mrs.,125,0.15151515151515152
+"Asim, Mr. Adola",Mr.,517,0.6266666666666667
+"O'Brien, Mr. Thomas",Mr.,517,0.6266666666666667
+"Adahl, Mr. Mauritz Nils Martin",Mr.,517,0.6266666666666667
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Mrs.,125,0.15151515151515152
+"Moussa, Mrs. (Mantoura Boulos)",Mrs.,125,0.15151515151515152
+"Jermyn, Miss. Annie",Miss.,182,0.2206060606060606
+"Harder, Mr. George Achilles",Mr.,517,0.6266666666666667
+"Wiklund, Mr. Jakob Alfred",Mr.,517,0.6266666666666667
+"Beavan, Mr. William Thomas",Mr.,517,0.6266666666666667
+"Ringhini, Mr. Sante",Mr.,517,0.6266666666666667
+"Palsson, Miss. Stina Viola",Miss.,182,0.2206060606060606
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",Mrs.,125,0.15151515151515152
+"Landergren, Miss. Aurora Adelia",Miss.,182,0.2206060606060606
+"Widener, Mr. Harry Elkins",Mr.,517,0.6266666666666667
+"Betros, Mr. Tannous",Mr.,517,0.6266666666666667
+"Gustafsson, Mr. Karl Gideon",Mr.,517,0.6266666666666667
+"Bidois, Miss. Rosalie",Miss.,182,0.2206060606060606
+"Nakid, Miss. Maria (""Mary"")",Miss.,182,0.2206060606060606
+"Tikkanen, Mr. Juho",Mr.,517,0.6266666666666667
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Mrs.,125,0.15151515151515152
+"Plotcharsky, Mr. Vasil",Mr.,517,0.6266666666666667
+"Davies, Mr. Charles Henry",Mr.,517,0.6266666666666667
+"Buss, Miss. Kate",Miss.,182,0.2206060606060606
+"Sadlier, Mr. Matthew",Mr.,517,0.6266666666666667
+"Lehmann, Miss. Bertha",Miss.,182,0.2206060606060606
+"Carter, Mr. William Ernest",Mr.,517,0.6266666666666667
+"Jansson, Mr. Carl Olof",Mr.,517,0.6266666666666667
+"Gustafsson, Mr. Johan Birger",Mr.,517,0.6266666666666667
+"Newell, Miss. Marjorie",Miss.,182,0.2206060606060606
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Mrs.,125,0.15151515151515152
+"Johansson, Mr. Erik",Mr.,517,0.6266666666666667
+"Olsson, Miss. Elina",Miss.,182,0.2206060606060606
+"McKane, Mr. Peter David",Mr.,517,0.6266666666666667
+"Trout, Mrs. William H (Jessie L)",Mrs.,125,0.15151515151515152
+"Niskanen, Mr. Juha",Mr.,517,0.6266666666666667
+"Adams, Mr. John",Mr.,517,0.6266666666666667
+"Jussila, Miss. Mari Aina",Miss.,182,0.2206060606060606
+"Hakkarainen, Mr. Pekka Pietari",Mr.,517,0.6266666666666667
+"Oreskovic, Miss. Marija",Miss.,182,0.2206060606060606
+"Gale, Mr. Shadrach",Mr.,517,0.6266666666666667
+"Widegren, Mr. Carl/Charles Peter",Mr.,517,0.6266666666666667
+"Birkeland, Mr. Hans Martin Monsen",Mr.,517,0.6266666666666667
+"Lefebre, Miss. Ida",Miss.,182,0.2206060606060606
+"Sdycoff, Mr. Todor",Mr.,517,0.6266666666666667
+"Hart, Mr. Henry",Mr.,517,0.6266666666666667
+"Minahan, Miss. Daisy E",Miss.,182,0.2206060606060606
+"Cunningham, Mr. Alfred Fleming",Mr.,517,0.6266666666666667
+"Sundman, Mr. Johan Julian",Mr.,517,0.6266666666666667
+"Meek, Mrs. Thomas (Annie Louise Rowley)",Mrs.,125,0.15151515151515152
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Mrs.,125,0.15151515151515152
+"Silven, Miss. Lyyli Karoliina",Miss.,182,0.2206060606060606
+"Matthews, Mr. William John",Mr.,517,0.6266666666666667
+"Van Impe, Miss. Catharina",Miss.,182,0.2206060606060606
+"Gheorgheff, Mr. Stanio",Mr.,517,0.6266666666666667
+"Charters, Mr. David",Mr.,517,0.6266666666666667
+"Zimmerman, Mr. Leo",Mr.,517,0.6266666666666667
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Mrs.,125,0.15151515151515152
+"Rosblom, Mr. Viktor Richard",Mr.,517,0.6266666666666667
+"Wiseman, Mr. Phillippe",Mr.,517,0.6266666666666667
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",Mrs.,125,0.15151515151515152
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Miss.,182,0.2206060606060606
+"Flynn, Mr. James",Mr.,517,0.6266666666666667
+"Pickard, Mr. Berk (Berk Trembisky)",Mr.,517,0.6266666666666667
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Mr.,517,0.6266666666666667
+"Thorneycroft, Mrs. Percival (Florence Kate White)",Mrs.,125,0.15151515151515152
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Mrs.,125,0.15151515151515152
+"Kallio, Mr. Nikolai Erland",Mr.,517,0.6266666666666667
+"Silvey, Mr. William Baird",Mr.,517,0.6266666666666667
+"Carter, Miss. Lucile Polk",Miss.,182,0.2206060606060606
+"Ford, Miss. Doolina Margaret ""Daisy""",Miss.,182,0.2206060606060606
+"Richards, Mrs. Sidney (Emily Hocking)",Mrs.,125,0.15151515151515152
+"Fortune, Mr. Mark",Mr.,517,0.6266666666666667
+"Kvillner, Mr. Johan Henrik Johannesson",Mr.,517,0.6266666666666667
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Mrs.,125,0.15151515151515152
+"Hampe, Mr. Leon",Mr.,517,0.6266666666666667
+"Petterson, Mr. Johan Emil",Mr.,517,0.6266666666666667
+"Reynaldo, Ms. Encarnacion",Ms.,1,0.0012121212121212121
+"Johannesen-Bratthammer, Mr. Bernt",Mr.,517,0.6266666666666667
+"Mellinger, Miss. Madeleine Violet",Miss.,182,0.2206060606060606
+"Seward, Mr. Frederic Kimber",Mr.,517,0.6266666666666667
+"Baclini, Miss. Marie Catherine",Miss.,182,0.2206060606060606
+"West, Mr. Edwy Arthur",Mr.,517,0.6266666666666667
+"Hagland, Mr. Ingvald Olai Olsen",Mr.,517,0.6266666666666667
+"Foreman, Mr. Benjamin Laventall",Mr.,517,0.6266666666666667
+"Goldenberg, Mr. Samuel L",Mr.,517,0.6266666666666667
+"Peduzzi, Mr. Joseph",Mr.,517,0.6266666666666667
+"Jalsevac, Mr. Ivan",Mr.,517,0.6266666666666667
+"Millet, Mr. Francis Davis",Mr.,517,0.6266666666666667
+"Kenyon, Mrs. Frederick R (Marion)",Mrs.,125,0.15151515151515152
+"Toomey, Miss. Ellen",Miss.,182,0.2206060606060606
+"O'Connor, Mr. Maurice",Mr.,517,0.6266666666666667
+"Anderson, Mr. Harry",Mr.,517,0.6266666666666667
+"Morley, Mr. William",Mr.,517,0.6266666666666667
+"Gee, Mr. Arthur H",Mr.,517,0.6266666666666667
+"Milling, Mr. Jacob Christian",Mr.,517,0.6266666666666667
+"Maisner, Mr. Simon",Mr.,517,0.6266666666666667
+"Goncalves, Mr. Manuel Estanslas",Mr.,517,0.6266666666666667
+"Campbell, Mr. William",Mr.,517,0.6266666666666667
+"Smart, Mr. John Montgomery",Mr.,517,0.6266666666666667
+"Scanlan, Mr. James",Mr.,517,0.6266666666666667
+"Baclini, Miss. Helene Barbara",Miss.,182,0.2206060606060606
+"Keefe, Mr. Arthur",Mr.,517,0.6266666666666667
+"Cacic, Mr. Luka",Mr.,517,0.6266666666666667
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",Mrs.,125,0.15151515151515152
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Mrs.,125,0.15151515151515152
+"Strandberg, Miss. Ida Sofia",Miss.,182,0.2206060606060606
+"Clifford, Mr. George Quincy",Mr.,517,0.6266666666666667
+"Renouf, Mr. Peter Henry",Mr.,517,0.6266666666666667
+"Braund, Mr. Lewis Richard",Mr.,517,0.6266666666666667
+"Karlsson, Mr. Nils August",Mr.,517,0.6266666666666667
+"Hirvonen, Miss. Hildur E",Miss.,182,0.2206060606060606
+"Frost, Mr. Anthony Wood ""Archie""",Mr.,517,0.6266666666666667
+"Rouse, Mr. Richard Henry",Mr.,517,0.6266666666666667
+"Turkula, Mrs. (Hedwig)",Mrs.,125,0.15151515151515152
+"Bishop, Mr. Dickinson H",Mr.,517,0.6266666666666667
+"Lefebre, Miss. Jeannie",Miss.,182,0.2206060606060606
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Mrs.,125,0.15151515151515152
+"Kent, Mr. Edward Austin",Mr.,517,0.6266666666666667
+"Somerton, Mr. Francis William",Mr.,517,0.6266666666666667
+"Hagland, Mr. Konrad Mathias Reiersen",Mr.,517,0.6266666666666667
+"Windelov, Mr. Einar",Mr.,517,0.6266666666666667
+"Molson, Mr. Harry Markland",Mr.,517,0.6266666666666667
+"Artagaveytia, Mr. Ramon",Mr.,517,0.6266666666666667
+"Stanley, Mr. Edward Roland",Mr.,517,0.6266666666666667
+"Yousseff, Mr. Gerious",Mr.,517,0.6266666666666667
+"Eustis, Miss. Elizabeth Mussey",Miss.,182,0.2206060606060606
+"Shellard, Mr. Frederick William",Mr.,517,0.6266666666666667
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Mrs.,125,0.15151515151515152
+"Svensson, Mr. Olof",Mr.,517,0.6266666666666667
+"Calic, Mr. Petar",Mr.,517,0.6266666666666667
+"Canavan, Miss. Mary",Miss.,182,0.2206060606060606
+"O'Sullivan, Miss. Bridget Mary",Miss.,182,0.2206060606060606
+"Laitinen, Miss. Kristina Sofia",Miss.,182,0.2206060606060606
+"Maioni, Miss. Roberta",Miss.,182,0.2206060606060606
+"Penasco y Castellana, Mr. Victor de Satode",Mr.,517,0.6266666666666667
+"Quick, Mrs. Frederick Charles (Jane Richards)",Mrs.,125,0.15151515151515152
+"Bradley, Mr. George (""George Arthur Brayton"")",Mr.,517,0.6266666666666667
+"Olsen, Mr. Henry Margido",Mr.,517,0.6266666666666667
+"Lang, Mr. Fang",Mr.,517,0.6266666666666667
+"Daly, Mr. Eugene Patrick",Mr.,517,0.6266666666666667
+"Webber, Mr. James",Mr.,517,0.6266666666666667
+"McGough, Mr. James Robert",Mr.,517,0.6266666666666667
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Mrs.,125,0.15151515151515152
+"Coleff, Mr. Satio",Mr.,517,0.6266666666666667
+"Walker, Mr. William Anderson",Mr.,517,0.6266666666666667
+"Lemore, Mrs. (Amelia Milley)",Mrs.,125,0.15151515151515152
+"Ryan, Mr. Patrick",Mr.,517,0.6266666666666667
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Mrs.,125,0.15151515151515152
+"Pavlovic, Mr. Stefo",Mr.,517,0.6266666666666667
+"Perreault, Miss. Anne",Miss.,182,0.2206060606060606
+"Vovk, Mr. Janko",Mr.,517,0.6266666666666667
+"Lahoud, Mr. Sarkis",Mr.,517,0.6266666666666667
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Mrs.,125,0.15151515151515152
+"Kassem, Mr. Fared",Mr.,517,0.6266666666666667
+"Farrell, Mr. James",Mr.,517,0.6266666666666667
+"Ridsdale, Miss. Lucy",Miss.,182,0.2206060606060606
+"Farthing, Mr. John",Mr.,517,0.6266666666666667
+"Salonen, Mr. Johan Werner",Mr.,517,0.6266666666666667
+"Hocking, Mr. Richard George",Mr.,517,0.6266666666666667
+"Quick, Miss. Phyllis May",Miss.,182,0.2206060606060606
+"Toufik, Mr. Nakli",Mr.,517,0.6266666666666667
+"Elias, Mr. Joseph Jr",Mr.,517,0.6266666666666667
+"Peter, Mrs. Catherine (Catherine Rizk)",Mrs.,125,0.15151515151515152
+"Cacic, Miss. Marija",Miss.,182,0.2206060606060606
+"Hart, Miss. Eva Miriam",Miss.,182,0.2206060606060606
+"LeRoy, Miss. Bertha",Miss.,182,0.2206060606060606
+"Risien, Mr. Samuel Beard",Mr.,517,0.6266666666666667
+"Frolicher, Miss. Hedwig Margaritha",Miss.,182,0.2206060606060606
+"Crosby, Miss. Harriet R",Miss.,182,0.2206060606060606
+"Andersson, Miss. Ingeborg Constanzia",Miss.,182,0.2206060606060606
+"Andersson, Miss. Sigrid Elisabeth",Miss.,182,0.2206060606060606
+"Beane, Mr. Edward",Mr.,517,0.6266666666666667
+"Douglas, Mr. Walter Donald",Mr.,517,0.6266666666666667
+"Nicholson, Mr. Arthur Ernest",Mr.,517,0.6266666666666667
+"Beane, Mrs. Edward (Ethel Clarke)",Mrs.,125,0.15151515151515152
+"Padro y Manent, Mr. Julian",Mr.,517,0.6266666666666667
+"Goldsmith, Mr. Frank John",Mr.,517,0.6266666666666667
+"Thayer, Mr. John Borland Jr",Mr.,517,0.6266666666666667
+"Sharp, Mr. Percival James R",Mr.,517,0.6266666666666667
+"O'Brien, Mr. Timothy",Mr.,517,0.6266666666666667
+"Leeni, Mr. Fahim (""Philip Zenni"")",Mr.,517,0.6266666666666667
+"Ohman, Miss. Velin",Miss.,182,0.2206060606060606
+"Wright, Mr. George",Mr.,517,0.6266666666666667
+"Robbins, Mr. Victor",Mr.,517,0.6266666666666667
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",Mrs.,125,0.15151515151515152
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Mrs.,125,0.15151515151515152
+"Morrow, Mr. Thomas Rowan",Mr.,517,0.6266666666666667
+"Sivic, Mr. Husein",Mr.,517,0.6266666666666667
+"Norman, Mr. Robert Douglas",Mr.,517,0.6266666666666667
+"Simmons, Mr. John",Mr.,517,0.6266666666666667
+"Meanwell, Miss. (Marion Ogden)",Miss.,182,0.2206060606060606
+"Davies, Mr. Alfred J",Mr.,517,0.6266666666666667
+"Stoytcheff, Mr. Ilia",Mr.,517,0.6266666666666667
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Mrs.,125,0.15151515151515152
+"Doharr, Mr. Tannous",Mr.,517,0.6266666666666667
+"Jonsson, Mr. Carl",Mr.,517,0.6266666666666667
+"Harris, Mr. George",Mr.,517,0.6266666666666667
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Mrs.,125,0.15151515151515152
+"Flynn, Mr. John Irwin (""Irving"")",Mr.,517,0.6266666666666667
+"Kelly, Miss. Mary",Miss.,182,0.2206060606060606
+"Rush, Mr. Alfred George John",Mr.,517,0.6266666666666667
+"Patchett, Mr. George",Mr.,517,0.6266666666666667
+"Garside, Miss. Ethel",Miss.,182,0.2206060606060606
+"Silvey, Mrs. William Baird (Alice Munger)",Mrs.,125,0.15151515151515152
+"Caram, Mrs. Joseph (Maria Elias)",Mrs.,125,0.15151515151515152
+"Jussila, Mr. Eiriik",Mr.,517,0.6266666666666667
+"Christy, Miss. Julie Rachel",Miss.,182,0.2206060606060606
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Mrs.,125,0.15151515151515152
+"Downton, Mr. William James",Mr.,517,0.6266666666666667
+"Ross, Mr. John Hugo",Mr.,517,0.6266666666666667
+"Paulner, Mr. Uscher",Mr.,517,0.6266666666666667
+"Taussig, Miss. Ruth",Miss.,182,0.2206060606060606
+"Jarvis, Mr. John Denzil",Mr.,517,0.6266666666666667
+"Frolicher-Stehli, Mr. Maxmillian",Mr.,517,0.6266666666666667
+"Gilinski, Mr. Eliezer",Mr.,517,0.6266666666666667
+"Murdlin, Mr. Joseph",Mr.,517,0.6266666666666667
+"Rintamaki, Mr. Matti",Mr.,517,0.6266666666666667
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Mrs.,125,0.15151515151515152
+"Elsbury, Mr. William James",Mr.,517,0.6266666666666667
+"Bourke, Miss. Mary",Miss.,182,0.2206060606060606
+"Chapman, Mr. John Henry",Mr.,517,0.6266666666666667
+"Van Impe, Mr. Jean Baptiste",Mr.,517,0.6266666666666667
+"Leitch, Miss. Jessie Wills",Miss.,182,0.2206060606060606
+"Johnson, Mr. Alfred",Mr.,517,0.6266666666666667
+"Boulos, Mr. Hanna",Mr.,517,0.6266666666666667
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Mrs.,125,0.15151515151515152
+"Slabenoff, Mr. Petco",Mr.,517,0.6266666666666667
+"Harrington, Mr. Charles H",Mr.,517,0.6266666666666667
+"Torber, Mr. Ernst William",Mr.,517,0.6266666666666667
+"Homer, Mr. Harry (""Mr E Haven"")",Mr.,517,0.6266666666666667
+"Lindell, Mr. Edvard Bengtsson",Mr.,517,0.6266666666666667
+"Karaic, Mr. Milan",Mr.,517,0.6266666666666667
+"Daniel, Mr. Robert Williams",Mr.,517,0.6266666666666667
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Mrs.,125,0.15151515151515152
+"Shutes, Miss. Elizabeth W",Miss.,182,0.2206060606060606
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Mrs.,125,0.15151515151515152
+"Jardin, Mr. Jose Neto",Mr.,517,0.6266666666666667
+"Murphy, Miss. Margaret Jane",Miss.,182,0.2206060606060606
+"Horgan, Mr. John",Mr.,517,0.6266666666666667
+"Brocklebank, Mr. William Alfred",Mr.,517,0.6266666666666667
+"Herman, Miss. Alice",Miss.,182,0.2206060606060606
+"Danbom, Mr. Ernst Gilbert",Mr.,517,0.6266666666666667
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Mrs.,125,0.15151515151515152
+"Becker, Miss. Marion Louise",Miss.,182,0.2206060606060606
+"Gavey, Mr. Lawrence",Mr.,517,0.6266666666666667
+"Yasbeck, Mr. Antoni",Mr.,517,0.6266666666666667
+"Kimball, Mr. Edwin Nelson Jr",Mr.,517,0.6266666666666667
+"Nakid, Mr. Sahid",Mr.,517,0.6266666666666667
+"Hansen, Mr. Henry Damsgaard",Mr.,517,0.6266666666666667
+"Bowen, Mr. David John ""Dai""",Mr.,517,0.6266666666666667
+"Sutton, Mr. Frederick",Mr.,517,0.6266666666666667
+"Longley, Miss. Gretchen Fiske",Miss.,182,0.2206060606060606
+"Bostandyeff, Mr. Guentcho",Mr.,517,0.6266666666666667
+"O'Connell, Mr. Patrick D",Mr.,517,0.6266666666666667
+"Barkworth, Mr. Algernon Henry Wilson",Mr.,517,0.6266666666666667
+"Lundahl, Mr. Johan Svensson",Mr.,517,0.6266666666666667
+"Parr, Mr. William Henry Marsh",Mr.,517,0.6266666666666667
+"Skoog, Miss. Mabel",Miss.,182,0.2206060606060606
+"Davis, Miss. Mary",Miss.,182,0.2206060606060606
+"Leinonen, Mr. Antti Gustaf",Mr.,517,0.6266666666666667
+"Collyer, Mr. Harvey",Mr.,517,0.6266666666666667
+"Panula, Mrs. Juha (Maria Emilia Ojala)",Mrs.,125,0.15151515151515152
+"Thorneycroft, Mr. Percival",Mr.,517,0.6266666666666667
+"Jensen, Mr. Hans Peder",Mr.,517,0.6266666666666667
+"Skoog, Miss. Margit Elizabeth",Miss.,182,0.2206060606060606
+"Foo, Mr. Choong",Mr.,517,0.6266666666666667
+"Baclini, Miss. Eugenie",Miss.,182,0.2206060606060606
+"Harper, Mr. Henry Sleeper",Mr.,517,0.6266666666666667
+"Cor, Mr. Liudevit",Mr.,517,0.6266666666666667
+"Willey, Mr. Edward",Mr.,517,0.6266666666666667
+"Stanley, Miss. Amy Zillah Elsie",Miss.,182,0.2206060606060606
+"Mitkoff, Mr. Mito",Mr.,517,0.6266666666666667
+"Doling, Miss. Elsie",Miss.,182,0.2206060606060606
+"Kalvik, Mr. Johannes Halvorsen",Mr.,517,0.6266666666666667
+"O'Leary, Miss. Hanora ""Norah""",Miss.,182,0.2206060606060606
+"Hegarty, Miss. Hanora ""Nora""",Miss.,182,0.2206060606060606
+"Hickman, Mr. Leonard Mark",Mr.,517,0.6266666666666667
+"Radeff, Mr. Alexander",Mr.,517,0.6266666666666667
+"Bourke, Mrs. John (Catherine)",Mrs.,125,0.15151515151515152
+"Eitemiller, Mr. George Floyd",Mr.,517,0.6266666666666667
+"Newell, Mr. Arthur Webster",Mr.,517,0.6266666666666667
+"Badt, Mr. Mohamed",Mr.,517,0.6266666666666667
+"Colley, Mr. Edward Pomeroy",Mr.,517,0.6266666666666667
+"Coleff, Mr. Peju",Mr.,517,0.6266666666666667
+"Lindqvist, Mr. Eino William",Mr.,517,0.6266666666666667
+"Hickman, Mr. Lewis",Mr.,517,0.6266666666666667
+"Butler, Mr. Reginald Fenton",Mr.,517,0.6266666666666667
+"Rommetvedt, Mr. Knud Paust",Mr.,517,0.6266666666666667
+"Cook, Mr. Jacob",Mr.,517,0.6266666666666667
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Mrs.,125,0.15151515151515152
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Mrs.,125,0.15151515151515152
+"Davidson, Mr. Thornton",Mr.,517,0.6266666666666667
+"Mitchell, Mr. Henry Michael",Mr.,517,0.6266666666666667
+"Wilhelms, Mr. Charles",Mr.,517,0.6266666666666667
+"Watson, Mr. Ennis Hastings",Mr.,517,0.6266666666666667
+"Edvardsson, Mr. Gustaf Hjalmar",Mr.,517,0.6266666666666667
+"Sawyer, Mr. Frederick Charles",Mr.,517,0.6266666666666667
+"Turja, Miss. Anna Sofia",Miss.,182,0.2206060606060606
+"Goodwin, Mrs. Frederick (Augusta Tyler)",Mrs.,125,0.15151515151515152
+"Cardeza, Mr. Thomas Drake Martinez",Mr.,517,0.6266666666666667
+"Peters, Miss. Katie",Miss.,182,0.2206060606060606
+"Hassab, Mr. Hammad",Mr.,517,0.6266666666666667
+"Olsvigen, Mr. Thor Anderson",Mr.,517,0.6266666666666667
+"Goodwin, Mr. Charles Edward",Mr.,517,0.6266666666666667
+"Brown, Mr. Thomas William Solomon",Mr.,517,0.6266666666666667
+"Laroche, Mr. Joseph Philippe Lemercier",Mr.,517,0.6266666666666667
+"Panula, Mr. Jaako Arnold",Mr.,517,0.6266666666666667
+"Dakic, Mr. Branko",Mr.,517,0.6266666666666667
+"Fischer, Mr. Eberhard Thelander",Mr.,517,0.6266666666666667
+"Madill, Miss. Georgette Alexandra",Miss.,182,0.2206060606060606
+"Dick, Mr. Albert Adrian",Mr.,517,0.6266666666666667
+"Karun, Miss. Manca",Miss.,182,0.2206060606060606
+"Lam, Mr. Ali",Mr.,517,0.6266666666666667
+"Saad, Mr. Khalil",Mr.,517,0.6266666666666667
+"Chapman, Mr. Charles Henry",Mr.,517,0.6266666666666667
+"Kelly, Mr. James",Mr.,517,0.6266666666666667
+"Mullens, Miss. Katherine ""Katie""",Miss.,182,0.2206060606060606
+"Thayer, Mr. John Borland",Mr.,517,0.6266666666666667
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",Mr.,517,0.6266666666666667
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Mrs.,125,0.15151515151515152
+"Silverthorne, Mr. Spencer Victor",Mr.,517,0.6266666666666667
+"Barbara, Miss. Saiide",Miss.,182,0.2206060606060606
+"Gallagher, Mr. Martin",Mr.,517,0.6266666666666667
+"Hansen, Mr. Henrik Juul",Mr.,517,0.6266666666666667
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Mr.,517,0.6266666666666667
+"Kelly, Mrs. Florence ""Fannie""",Mrs.,125,0.15151515151515152
+"Calderhead, Mr. Edward Pennington",Mr.,517,0.6266666666666667
+"Cleaver, Miss. Alice",Miss.,182,0.2206060606060606
+"Klaber, Mr. Herman",Mr.,517,0.6266666666666667
+"Taylor, Mr. Elmer Zebley",Mr.,517,0.6266666666666667
+"Larsson, Mr. August Viktor",Mr.,517,0.6266666666666667
+"Greenberg, Mr. Samuel",Mr.,517,0.6266666666666667
+"Soholt, Mr. Peter Andreas Lauritz Andersen",Mr.,517,0.6266666666666667
+"Endres, Miss. Caroline Louise",Miss.,182,0.2206060606060606
+"Troutt, Miss. Edwina Celia ""Winnie""",Miss.,182,0.2206060606060606
+"McEvoy, Mr. Michael",Mr.,517,0.6266666666666667
+"Johnson, Mr. Malkolm Joackim",Mr.,517,0.6266666666666667
+"Harper, Miss. Annie Jessie ""Nina""",Miss.,182,0.2206060606060606
+"Jensen, Mr. Svend Lauritz",Mr.,517,0.6266666666666667
+"Gillespie, Mr. William Henry",Mr.,517,0.6266666666666667
+"Hodges, Mr. Henry Price",Mr.,517,0.6266666666666667
+"Chambers, Mr. Norman Campbell",Mr.,517,0.6266666666666667
+"Oreskovic, Mr. Luka",Mr.,517,0.6266666666666667
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Mrs.,125,0.15151515151515152
+"Mannion, Miss. Margareth",Miss.,182,0.2206060606060606
+"Bryhl, Mr. Kurt Arnold Gottfrid",Mr.,517,0.6266666666666667
+"Ilmakangas, Miss. Pieta Sofia",Miss.,182,0.2206060606060606
+"Allen, Miss. Elisabeth Walton",Miss.,182,0.2206060606060606
+"Hassan, Mr. Houssein G N",Mr.,517,0.6266666666666667
+"Knight, Mr. Robert J",Mr.,517,0.6266666666666667
+"Berriman, Mr. William John",Mr.,517,0.6266666666666667
+"Troupiansky, Mr. Moses Aaron",Mr.,517,0.6266666666666667
+"Williams, Mr. Leslie",Mr.,517,0.6266666666666667
+"Ford, Mrs. Edward (Margaret Ann Watson)",Mrs.,125,0.15151515151515152
+"Lesurer, Mr. Gustave J",Mr.,517,0.6266666666666667
+"Ivanoff, Mr. Kanio",Mr.,517,0.6266666666666667
+"Nankoff, Mr. Minko",Mr.,517,0.6266666666666667
+"Hawksford, Mr. Walter James",Mr.,517,0.6266666666666667
+"Cavendish, Mr. Tyrell William",Mr.,517,0.6266666666666667
+"Ryerson, Miss. Susan Parker ""Suzette""",Miss.,182,0.2206060606060606
+"McNamee, Mr. Neal",Mr.,517,0.6266666666666667
+"Stranden, Mr. Juho",Mr.,517,0.6266666666666667
+"Abbott, Mr. Rossmore Edward",Mr.,517,0.6266666666666667
+"Sinkkonen, Miss. Anna",Miss.,182,0.2206060606060606
+"Marvin, Mr. Daniel Warner",Mr.,517,0.6266666666666667
+"Connaghton, Mr. Michael",Mr.,517,0.6266666666666667
+"Wells, Miss. Joan",Miss.,182,0.2206060606060606
+"Vande Velde, Mr. Johannes Joseph",Mr.,517,0.6266666666666667
+"Jonkoff, Mr. Lalio",Mr.,517,0.6266666666666667
+"Herman, Mrs. Samuel (Jane Laver)",Mrs.,125,0.15151515151515152
+"Carlsson, Mr. August Sigfrid",Mr.,517,0.6266666666666667
+"Bailey, Mr. Percy Andrew",Mr.,517,0.6266666666666667
+"Theobald, Mr. Thomas Leonard",Mr.,517,0.6266666666666667
+"Garfirth, Mr. John",Mr.,517,0.6266666666666667
+"Nirva, Mr. Iisakki Antino Aijo",Mr.,517,0.6266666666666667
+"Barah, Mr. Hanna Assi",Mr.,517,0.6266666666666667
+"Carter, Mrs. William Ernest (Lucile Polk)",Mrs.,125,0.15151515151515152
+"Eklund, Mr. Hans Linus",Mr.,517,0.6266666666666667
+"Hogeboom, Mrs. John C (Anna Andrews)",Mrs.,125,0.15151515151515152
+"Mangan, Miss. Mary",Miss.,182,0.2206060606060606
+"Moran, Mr. Daniel J",Mr.,517,0.6266666666666667
+"Gronnestad, Mr. Daniel Danielsen",Mr.,517,0.6266666666666667
+"Lievens, Mr. Rene Aime",Mr.,517,0.6266666666666667
+"Jensen, Mr. Niels Peder",Mr.,517,0.6266666666666667
+"Mack, Mrs. (Mary)",Mrs.,125,0.15151515151515152
+"Elias, Mr. Dibo",Mr.,517,0.6266666666666667
+"Hocking, Mrs. Elizabeth (Eliza Needs)",Mrs.,125,0.15151515151515152
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Mr.,517,0.6266666666666667
+"Tobin, Mr. Roger",Mr.,517,0.6266666666666667
+"Emanuel, Miss. Virginia Ethel",Miss.,182,0.2206060606060606
+"Kilgannon, Mr. Thomas J",Mr.,517,0.6266666666666667
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Mrs.,125,0.15151515151515152
+"Ayoub, Miss. Banoura",Miss.,182,0.2206060606060606
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",Mrs.,125,0.15151515151515152
+"Long, Mr. Milton Clyde",Mr.,517,0.6266666666666667
+"Johnston, Mr. Andrew G",Mr.,517,0.6266666666666667
+"Ali, Mr. William",Mr.,517,0.6266666666666667
+"Harmer, Mr. Abraham (David Lishin)",Mr.,517,0.6266666666666667
+"Sjoblom, Miss. Anna Sofia",Miss.,182,0.2206060606060606
+"Guggenheim, Mr. Benjamin",Mr.,517,0.6266666666666667
+"Keane, Mr. Andrew ""Andy""",Mr.,517,0.6266666666666667
+"Gaskell, Mr. Alfred",Mr.,517,0.6266666666666667
+"Sage, Miss. Stella Anna",Miss.,182,0.2206060606060606
+"Hoyt, Mr. William Fisher",Mr.,517,0.6266666666666667
+"Dantcheff, Mr. Ristiu",Mr.,517,0.6266666666666667
+"Otter, Mr. Richard",Mr.,517,0.6266666666666667
+"Osman, Mrs. Mara",Mrs.,125,0.15151515151515152
+"Ibrahim Shawah, Mr. Yousseff",Mr.,517,0.6266666666666667
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Mrs.,125,0.15151515151515152
+"Ponesell, Mr. Martin",Mr.,517,0.6266666666666667
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Mrs.,125,0.15151515151515152
+"Hedman, Mr. Oskar Arvid",Mr.,517,0.6266666666666667
+"Johansson, Mr. Karl Johan",Mr.,517,0.6266666666666667
+"Andrews, Mr. Thomas Jr",Mr.,517,0.6266666666666667
+"Pettersson, Miss. Ellen Natalia",Miss.,182,0.2206060606060606
+"Meyer, Mr. August",Mr.,517,0.6266666666666667
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Mrs.,125,0.15151515151515152
+"Alexander, Mr. William",Mr.,517,0.6266666666666667
+"Lester, Mr. James",Mr.,517,0.6266666666666667
+"Slemen, Mr. Richard James",Mr.,517,0.6266666666666667
+"Andersson, Miss. Ebba Iris Alfrida",Miss.,182,0.2206060606060606
+"Tomlin, Mr. Ernest Portage",Mr.,517,0.6266666666666667
+"Fry, Mr. Richard",Mr.,517,0.6266666666666667
+"Heininen, Miss. Wendla Maria",Miss.,182,0.2206060606060606
+"Mallet, Mr. Albert",Mr.,517,0.6266666666666667
+"Holm, Mr. John Fredrik Alexander",Mr.,517,0.6266666666666667
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Mrs.,125,0.15151515151515152
+"Lulic, Mr. Nikola",Mr.,517,0.6266666666666667
+"Moor, Mrs. (Beila)",Mrs.,125,0.15151515151515152
+"Flynn, Mr. John",Mr.,517,0.6266666666666667
+"Lam, Mr. Len",Mr.,517,0.6266666666666667
+"McCormack, Mr. Thomas Joseph",Mr.,517,0.6266666666666667
+"Stone, Mrs. George Nelson (Martha Evelyn)",Mrs.,125,0.15151515151515152
+"Yasbeck, Mrs. Antoni (Selini Alexander)",Mrs.,125,0.15151515151515152
+"Saad, Mr. Amin",Mr.,517,0.6266666666666667
+"Augustsson, Mr. Albert",Mr.,517,0.6266666666666667
+"Allum, Mr. Owen George",Mr.,517,0.6266666666666667
+"Compton, Miss. Sara Rebecca",Miss.,182,0.2206060606060606
+"Pasic, Mr. Jakob",Mr.,517,0.6266666666666667
+"Sirota, Mr. Maurice",Mr.,517,0.6266666666666667
+"Chip, Mr. Chang",Mr.,517,0.6266666666666667
+"Marechal, Mr. Pierre",Mr.,517,0.6266666666666667
+"Alhomaki, Mr. Ilmari Rudolf",Mr.,517,0.6266666666666667
+"Mudd, Mr. Thomas Charles",Mr.,517,0.6266666666666667
+"Serepeca, Miss. Augusta",Miss.,182,0.2206060606060606
+"Lemberopolous, Mr. Peter L",Mr.,517,0.6266666666666667
+"Culumovic, Mr. Jeso",Mr.,517,0.6266666666666667
+"Abbing, Mr. Anthony",Mr.,517,0.6266666666666667
+"Sage, Mr. Douglas Bullen",Mr.,517,0.6266666666666667
+"Markoff, Mr. Marin",Mr.,517,0.6266666666666667
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Mrs.,125,0.15151515151515152
+"Svensson, Mr. Johan",Mr.,517,0.6266666666666667
+"Boulos, Miss. Nourelain",Miss.,182,0.2206060606060606
+"Lines, Miss. Mary Conover",Miss.,182,0.2206060606060606
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Mrs.,125,0.15151515151515152
+"Aks, Mrs. Sam (Leah Rosen)",Mrs.,125,0.15151515151515152
+"Wick, Mrs. George Dennick (Mary Hitchcock)",Mrs.,125,0.15151515151515152
+"Daly, Mr. Peter Denis ",Mr.,517,0.6266666666666667
+"Baclini, Mrs. Solomon (Latifa Qurban)",Mrs.,125,0.15151515151515152
+"Razi, Mr. Raihed",Mr.,517,0.6266666666666667
+"Hansen, Mr. Claus Peter",Mr.,517,0.6266666666666667
+"Giles, Mr. Frederick Edward",Mr.,517,0.6266666666666667
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Mrs.,125,0.15151515151515152
+"Sage, Miss. Dorothy Edith ""Dolly""",Miss.,182,0.2206060606060606
+"Gill, Mr. John William",Mr.,517,0.6266666666666667
+"Bystrom, Mrs. (Karolina)",Mrs.,125,0.15151515151515152
+"Duran y More, Miss. Asuncion",Miss.,182,0.2206060606060606
+"Roebling, Mr. Washington Augustus II",Mr.,517,0.6266666666666667
+"van Melkebeke, Mr. Philemon",Mr.,517,0.6266666666666667
+"Balkic, Mr. Cerin",Mr.,517,0.6266666666666667
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Mrs.,125,0.15151515151515152
+"Carlsson, Mr. Frans Olof",Mr.,517,0.6266666666666667
+"Vander Cruyssen, Mr. Victor",Mr.,517,0.6266666666666667
+"Abelson, Mrs. Samuel (Hannah Wizosky)",Mrs.,125,0.15151515151515152
+"Najib, Miss. Adele Kiamie ""Jane""",Miss.,182,0.2206060606060606
+"Gustafsson, Mr. Alfred Ossian",Mr.,517,0.6266666666666667
+"Petroff, Mr. Nedelio",Mr.,517,0.6266666666666667
+"Laleff, Mr. Kristo",Mr.,517,0.6266666666666667
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Mrs.,125,0.15151515151515152
+"Shelley, Mrs. William (Imanita Parrish Hall)",Mrs.,125,0.15151515151515152
+"Markun, Mr. Johann",Mr.,517,0.6266666666666667
+"Dahlberg, Miss. Gerda Ulrika",Miss.,182,0.2206060606060606
+"Banfield, Mr. Frederick James",Mr.,517,0.6266666666666667
+"Sutehall, Mr. Henry Jr",Mr.,517,0.6266666666666667
+"Rice, Mrs. William (Margaret Norton)",Mrs.,125,0.15151515151515152
+"Graham, Miss. Margaret Edith",Miss.,182,0.2206060606060606
+"Johnston, Miss. Catherine Helen ""Carrie""",Miss.,182,0.2206060606060606
+"Behr, Mr. Karl Howell",Mr.,517,0.6266666666666667
+"Dooley, Mr. Patrick",Mr.,517,0.6266666666666667
